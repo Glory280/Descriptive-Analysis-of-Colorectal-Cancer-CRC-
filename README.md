@@ -22,31 +22,6 @@ This project analyzes a dataset of **225 colorectal cancer patients** using desc
 * Identify the most common **primary tumor locations**
 * Explore the presence of **early-onset colorectal cancer** cases
 
----
-
-## 🗂 Repository Structure
-
-```
-CRC-Descriptive-Analysis-Public-Health/
-│
-├── README.md                 # Project documentation
-├── data/
-│   └── crc_dataset.csv       # Colorectal cancer dataset (de-identified)
-│
-├── powerbi/
-│   └── crc_analysis.pbix     # Power BI dashboard file
-│
-├── visuals/
-│   ├── age_distribution.png
-│   ├── sex_distribution.png
-│   ├── ethnicity_distribution.png
-│   └── tumor_location.png
-│
-└── report/
-    └── CRC_Descriptive_Report.pdf
-```
-
-> ⚠️ Dataset used is assumed to be anonymized and for educational/portfolio purposes only.
 
 ---
 
