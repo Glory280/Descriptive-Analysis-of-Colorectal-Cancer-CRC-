@@ -138,5 +138,7 @@ This repository demonstrates skills relevant to **public health analyst** and **
 * GitHub (version control & portfolio hosting)
 
 ---
+## 📎 Project Deliverables
 
-✨ If you’re reviewing this as part of a portfolio: this project is intentionally descriptive, clean, and policy-aware — strong fundamentals always come first.
+- 📊 **Slide Deck:** [View presentation](https://drive.google.com/file/d/17VKNM9kODVNwooYjbUF7_zmAnHPUDw7c/view?usp=sharing)
+- 📄 **Power BI Dashboard (PDF):** [View dashboard](https://drive.google.com/file/d/1KTNYdpM5ouawwN1mpPh9v9zYcaE6cs57/view?usp=sharing)
