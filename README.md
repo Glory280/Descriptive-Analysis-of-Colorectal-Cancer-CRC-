@@ -141,4 +141,4 @@ This repository demonstrates skills relevant to **public health analyst** and **
 ## 📎 Project Deliverables
 
 - 📊 **Slide Deck:** [View presentation](https://drive.google.com/file/d/17VKNM9kODVNwooYjbUF7_zmAnHPUDw7c/view?usp=sharing)
-- 📄 **Power BI Dashboard (PDF):** [View dashboard] (https://drive.google.com/file/d/1KTNYdpM5ouawwN1mpPh9v9zYcaE6cs57/view?usp=sharing)
+- 📄**Power BI Dashboard (PDF):** [View dashboard](https://drive.google.com/file/d/1KTNYdpM5ouawwN1mpPh9v9zYcaE6cs57/view?usp=sharing)
